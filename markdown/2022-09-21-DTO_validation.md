@@ -89,6 +89,7 @@ validate 실패 시 `MethodArgumentNotValidException` 가 발생합니다.
 ### 호출스택
 
 ![img]({{site.url}}/images/img.png)
+![img](images/img.png)
 ![img]({{site.url}}/assets/images/jmb/dto_validation/img.png)
 
 ## @Validated
